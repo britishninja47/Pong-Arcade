@@ -5,7 +5,7 @@
 
 :root {
   --hue: 600;
-  --saturation: 60%;
+  --saturation: 70%;
   --foreground-color: hsl(var(--hue), var(--saturation), 75%);
   --background-color: hsl(var(--hue), var(--saturation), 20%);
 
