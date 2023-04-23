@@ -52,7 +52,7 @@ body {
  background-color: var(--foreground-color);
  top: calc(var(--position) * 1vh);
  transform: translateY(-50%);
- width: 1vh;
+ width: 1.2vh;
  height: 10vh;
 }
 
